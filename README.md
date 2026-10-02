@@ -1,12 +1,11 @@
-# Code 1
-
+# 228. Summary Ranges
 [Открыть Code 1](./code1.py)
 
 ![Screen 1](./screen1.jpg)
 
 ---
 
-# Code 2
+# 383. Ransom Note
 
 [Открыть Code 2](./code2.py)
 
@@ -14,7 +13,7 @@
 
 ---
 
-# Code 3
+# 56. Merge Intervals
 
 [Открыть Code 3](./code3.py)
 
